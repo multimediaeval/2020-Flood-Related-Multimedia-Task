@@ -4,14 +4,15 @@ The goal of this task is to automatically identify which posts are truly relevan
 
 ## Announcements
 * **31 July 2020:** The development set is now available to download.
+* **14 October 2020:** The task schedule has been updated.
 
 ## Task Schedule
 * 31 July: Development set release
-* 10 October: Test set release
-* 23 October: Runs due
-* 15 November: Results returned
+* ~~10 October~~ 19 October: Test set release
+* ~~23 October~~ 9 November: Runs due
+* 16 November: Results returned
 * 30 November: Working notes paper
-* Early December: MediaEval 2020 Workshop
+* 11, 14-15 December: MediaEval 2020 Workshop
 
 ## Task Description
 The Flood-related Multimedia Task tackles the analysis of social multimedia from Twitter for flooding events. In this task, the participants receive a set of Twitter posts (tweets) and their associated images, which contain keywords related to floods in a specific area of interest, specifically, the Eastern Alps partition in Northeastern (NE) Italy. However, the relevance of the tweets to actual flooding incidents in that area is ambiguous. The objective of the task is to build an information retrieval system or a classifier that is able to distinguish whether or not a tweet is relevant to a flooding event in the examined area. 
