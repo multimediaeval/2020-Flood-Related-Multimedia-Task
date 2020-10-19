@@ -5,6 +5,7 @@ The goal of this task is to automatically identify which posts are truly relevan
 ## Announcements
 * **31 July 2020:** The development set is now available to download.
 * **14 October 2020:** The task schedule has been updated.
+* **19 October 2020:** The test set is now available to download.
 
 ## Task Schedule
 * 31 July: Development set release
@@ -35,7 +36,7 @@ Participation in this task involves the following steps:
 
 ### Overview
 
-The dataset consists of 5,419 Tweet IDs (dev-set) and 2,358 Tweet IDs (test-set) that have been collected from Twitter between 2017 and 2019, by searching for Italian flood-related keywords (e.g., “allagamento”, “alluvione”) inside the tweet text. All tweets contain an attached image and should be still online at the time of releasing the dataset. In order to be compliant with the Twitter Developer Policy, only the IDs of the tweets can be distributed, but an additional tool to download the complete tweets and embedded images is provided (developed by Benjamin Bischke for the Multimedia Satellite Task at MediaEval 2018).
+The dataset consists of 5,419 Tweet IDs (dev-set) and 2,291 Tweet IDs (test-set) that have been collected from Twitter between 2017 and 2019, by searching for Italian flood-related keywords (e.g., “allagamento”, “alluvione”) inside the tweet text. All tweets contain an attached image and should be still online at the time of releasing the dataset. In order to be compliant with the Twitter Developer Policy, only the IDs of the tweets can be distributed, but an additional tool to download the complete tweets and embedded images is provided (developed by Benjamin Bischke for the Multimedia Satellite Task at MediaEval 2018).
 
 ### Ground Truth
 
@@ -55,8 +56,8 @@ Ground truth is provided to participants in a JSON file `devset_tweets_gt.json`,
 The following files are provided:
 
 * `devset_tweets_ids.json` contains the Tweet IDs of the development set and can be found [here](https://github.com/multimediaeval/2020-Flood-Related-Multimedia-Task/tree/master/dataset/devset)
-* `devset_tweets_gt.json` contains the Ground Truth labels for relevancy for all tweets and can be [here](https://github.com/multimediaeval/2020-Flood-Related-Multimedia-Task/tree/master/dataset/devset)
-* `testset_tweets_ids.json` contains the Tweet IDs of the test set (to be added)
+* `devset_tweets_gt.json` contains the Ground Truth labels for relevancy for all tweets and can be found [here](https://github.com/multimediaeval/2020-Flood-Related-Multimedia-Task/tree/master/dataset/devset)
+* `testset_tweets_ids.json` contains the Tweet IDs of the test set and can be found [here](https://github.com/multimediaeval/2020-Flood-Related-Multimedia-Task/tree/master/dataset/testset)
 
 ### Data downloading
 
