@@ -73,8 +73,8 @@ def get_tweet_file_path(filepath_id_file, output_dir):
     :param output_dir: path to ouput dir
     :return: target path to the file in which the raw tweets should be stored
     """
-    out_file_name = os.path.basename(filepath_id_file).replace("ids_",
-                                                               "tweets_")
+    out_file_name = os.path.basename(filepath_id_file).replace("_ids","")
+    
     out_file_path = os.path.join(output_dir, out_file_name)
     return out_file_path
 
