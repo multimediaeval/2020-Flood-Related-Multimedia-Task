@@ -36,7 +36,7 @@ Participation in this task involves the following steps:
 
 ### Overview
 
-The dataset consists of 5,419 Tweet IDs (dev-set) and 2,291 Tweet IDs (test-set) that have been collected from Twitter between 2017 and 2019, by searching for Italian flood-related keywords (e.g., “allagamento”, “alluvione”) inside the tweet text. All tweets contain an attached image and should be still online at the time of releasing the dataset. In order to be compliant with the Twitter Developer Policy, only the IDs of the tweets can be distributed, but an additional tool to download the complete tweets and embedded images is provided (developed by Benjamin Bischke for the Multimedia Satellite Task at MediaEval 2018).
+The dataset consists of 5,419 Tweet IDs (dev-set) and 2,288 Tweet IDs (test-set) that have been collected from Twitter between 2017 and 2019, by searching for Italian flood-related keywords (e.g., “allagamento”, “alluvione”) inside the tweet text. All tweets contain an attached image and should be still online at the time of releasing the dataset. In order to be compliant with the Twitter Developer Policy, only the IDs of the tweets can be distributed, but an additional tool to download the complete tweets and embedded images is provided (developed by Benjamin Bischke for the Multimedia Satellite Task at MediaEval 2018).
 
 ### Ground Truth
 
