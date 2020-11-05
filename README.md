@@ -127,13 +127,13 @@ Instructions about where to upload your runs will follow.
 The correctness of retrieved tweets for the two classes **relevant** and **not relevant** will be evaluated with the F1-Score metric on the test set.
 
 ## Recommended reading
-[1] Moumtzidou, A., Andreadis, S., Gialampoukidis, I., Karakostas, A., Vrochidis, S. and Kompatsiaris, I., 2018, April. [Flood relevance estimation from visual and textual content in social media streams](https://dl.acm.org/doi/abs/10.1145/3184558.3191620). In Companion Proceedings of the The Web Conference 2018 (pp. 1621-1627).
+[1] Moumtzidou, A., Andreadis, S., Gialampoukidis, I., Karakostas, A., Vrochidis, S. and Kompatsiaris, I., 2018, April. [Flood relevance estimation from visual and textual content in social media streams](https://dl.acm.org/doi/pdf/10.1145/3184558.3191620?casa_token=yK9wScqRzxcAAAAA:85J7O0dNwsv-coHP5Fv6WFNmoqdlwcnxPPfJ1ZkXd8Gp3T5tUFn4TX3JxtQIa5j5aejIYVw1tes). In Companion Proceedings of the The Web Conference 2018 (pp. 1621-1627).
 
-[2] Peters, R. and de Albuquerque, J.P., 2015. [Investigating images as indicators for relevant social media messages in disaster management](). In ISCRAM.
+[2] Peters, R. and de Albuquerque, J.P., 2015. [Investigating images as indicators for relevant social media messages in disaster management](http://www.agora.icmc.usp.br/site/wp-content/uploads/2015/08/Peters-and-Albuquerque-2015-Investigating-images-as-indicators-for-relevant-social-media-messages-in-disaster-management.pdf). In ISCRAM.
 
-[3] Li, H., Guevara, N., Herndon, N., Caragea, D., Neppalli, K., Caragea, C., Squicciarini, A.C. and Tapia, A.H., 2015, May. [Twitter Mining for Disaster Response: A Domain Adaptation Approach](http://www.agora.icmc.usp.br/site/wp-content/uploads/2015/08/Peters-and-Albuquerque-2015-Investigating-images-as-indicators-for-relevant-social-media-messages-in-disaster-management.pdf). In ISCRAM.
+[3] Li, H., Guevara, N., Herndon, N., Caragea, D., Neppalli, K., Caragea, C., Squicciarini, A.C. and Tapia, A.H., 2015, May. [Twitter Mining for Disaster Response: A Domain Adaptation Approach](http://idl.iscram.org/files/hongminli/2015/1234_HongminLi_etal2015.pdf). In ISCRAM.
 
-[4] Imran, M., Castillo, C., Lucas, J., Meier, P. and Vieweg, S., 2014, April. [AIDR: Artificial intelligence for disaster response](https://dl.acm.org/doi/abs/10.1145/2567948.2577034). In Proceedings of the 23rd International Conference on World Wide Web (pp. 159-162).
+[4] Imran, M., Castillo, C., Lucas, J., Meier, P. and Vieweg, S., 2014, April. [AIDR: Artificial intelligence for disaster response](https://dl.acm.org/doi/pdf/10.1145/2567948.2577034?casa_token=I6sQDt68jOEAAAAA:psiQYP1CHF3dsX9B0yIjYdFZCLSiuBwAqeL82e2qsBYia01iGRDtK4sDIgN3ms9JMh2fxUF8MTU). In Proceedings of the 23rd International Conference on World Wide Web (pp. 159-162).
 
 [5] Brouwer, T., Eilander, D., Van Loenen, A., Booij, M.J., Wijnberg, K.M., Verkade, J.S. and Wagemaker, J., 2017. [Probabilistic flood extent estimates from social media flood observations](https://core.ac.uk/download/pdf/207400745.pdf). Natural Hazards & Earth System Sciences, 17(5).
 
