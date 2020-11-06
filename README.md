@@ -120,7 +120,7 @@ ME20FMT_YYY_ZZZ.txt
 
 where ME20FMT is the code of the task, YYY is the acronym of your team and ZZZ is the number of your run (001, 002, 003, 004, 005).
 
-Instructions about where to upload your runs will follow.
+Please upload your runs in a compressed (zip/rar) file using the following Google form: https://forms.gle/tKBwZw9YEmFE4o7fA
 
 ## Evaluation
 
