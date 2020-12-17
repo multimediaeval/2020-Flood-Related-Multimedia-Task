@@ -6,6 +6,7 @@ The goal of this task is to automatically identify which posts are truly relevan
 * **31 July 2020:** The development set is now available to download.
 * **14 October 2020:** The task schedule has been updated.
 * **19 October 2020:** The test set is now available to download.
+* **17 December 2020:** The final version of the test set and the respective ground truth is now available to download.
 
 ## Task Schedule
 * 31 July: Development set release
